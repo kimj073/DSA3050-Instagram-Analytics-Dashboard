@@ -14,7 +14,7 @@ The objective of the dashboard is to support data-driven decision-making by iden
 
 ## Dashboard Preview
 
-![Instagram Analytics Dashboard](BISSDashboard.png)
+![Instagram Analytics Dashboard](BISSDasboard.png)
 
 ## Key Insights
 
